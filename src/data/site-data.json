@@ -1,0 +1,57 @@
+{
+  "business": {
+    "name": "TALLER ABDUL",
+    "tagline": "Tu Confianza, Nuestra Prioridad Automotriz.",
+    "description": "En TALLER ABDUL, somos tu socio de confianza para el mantenimiento y reparación de tu vehículo en Sagunto. Ofrecemos soluciones mecánicas de alta calidad, garantizando la seguridad y el rendimiento óptimo de tu coche. Con un servicio cercano y profesional, nos dedicamos a superar tus expectativas en cada visita.",
+    "phone": "602 00 47 93",
+    "address": "Carrer Kepler, 13, 46520 Sagunt, Valencia, España",
+    "email": "info@tallerabdul.es",
+    "rating": 4.6,
+    "reviewCount": 111,
+    "hours": ["Monday: 9:00 AM – 2:00 PM, 4:00 – 7:00 PM","Tuesday: 9:00 AM – 2:00 PM, 4:00 – 8:00 PM","Wednesday: 9:00 AM – 2:00 PM, 4:00 – 7:00 PM","Thursday: 9:00 AM – 2:00 PM, 4:00 – 7:00 PM","Friday: 9:00 AM – 2:00 PM, 4:00 – 7:00 PM","Saturday: Closed","Sunday: Closed"]
+  },
+  "theme": {
+    "primary": "#2C3E50",
+    "secondary": "#1C2833",
+    "accent": "#E74C3C",
+    "mode": "dark"
+  },
+  "hero": {
+    "headline": "TALLER ABDUL: Expertos en Mecánica para tu Coche en Sagunto.",
+    "subheadline": "Tu vehículo merece el mejor cuidado. En Taller Abdul, ofrecemos servicios de mecánica fiables y eficientes, con la garantía de un equipo profesional y experimentado. ¡Viaja seguro!",
+    "cta1": { "text": "Pedir Cita Ahora", "href": "#contact" },
+    "cta2": { "text": "Ver Nuestros Servicios", "href": "#services" },
+    "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1200&photo_reference=ATCDNfWUwvmyerdXrqgUmZgMEXSNcTAUBJzdvXkm-QwG9tCFf6baWKo0nDrm2X56rsL2vZArctgYqycIYktu00JUNkNcaFgOQa91ewX9AZ9zkiOQe4nJOZ5WXdrnQpVlbGAX-mUV2gCzvpKIv8aQml95KQ-p1JL8F9ThHs5U5WWgzdA6RqFi4WqmLrkWCb1dQPzgAS7HscTfs5BAWaK0jbHmyXb5c8eyokPZol_00m9722txqv7cSen1cMeEZyU1v4Nb_0Ux-fKZad4WFfCgdIpGupmGeB3CiiLSFsYdhtXIgC7l0w&key=AIzaSyAVvBWUrtTMnut45RFBuVKNz61wSg1Ebd8"
+  },
+  "services": [
+    { "icon": "🔧", "title": "Mantenimiento y Revisiones", "description": "Mantén tu coche en perfecto estado con nuestras revisiones completas y servicios de mantenimiento preventivo. Extendemos la vida útil de tu vehículo y prevenimos averías costosas." },
+    { "icon": "💻", "title": "Diagnosis Avanzada", "description": "Identificamos cualquier problema electrónico o mecánico con la última tecnología en diagnosis. Soluciones precisas y eficientes para que tu coche funcione como nuevo." },
+    { "icon": "⚙️", "title": "Frenos y Neumáticos", "description": "Garantiza tu seguridad con nuestro servicio especializado en frenos y neumáticos. Revisión, reparación o sustitución con recambios de calidad y garantía." },
+    { "icon": "✅", "title": "Pre-ITV y Puesta a Punto", "description": "Prepara tu vehículo para la ITV con nuestra exhaustiva revisión. Aseguramos que cumpla todos los requisitos, evitándote sorpresas y garantizando una inspección exitosa." }
+  ],
+  "about": {
+    "title": "Sobre Taller Abdul: Experiencia y Compromiso en Sagunto",
+    "text": "Desde nuestra apertura en Carrer Kepler, 13, nos hemos dedicado a ofrecer un servicio de mecánica automotriz de confianza y calidad en Sagunto y alrededores. En TALLER ABDUL, entendemos que tu coche es una parte esencial de tu día a día, y por eso, nos esforzamos por garantizar su óptimo funcionamiento y tu seguridad en la carretera.\n\nContamos con un equipo de mecánicos altamente cualificados y apasionados, que utilizan la tecnología más avanzada para diagnosticar y reparar cualquier avería. Nuestra reputación, avalada por una calificación de 4.6 estrellas en Google, refleja nuestro compromiso con la excelencia y la satisfacción del cliente. Ven a conocernos y descubre por qué somos la elección preferida de tantos conductores.\n\nEn TALLER ABDUL, la transparencia y la honestidad son los pilares de nuestro trabajo. Te informamos detalladamente de cada paso, ofreciéndote soluciones a medida y presupuestos claros. Tu tranquilidad es nuestra mayor recompensa.",
+    "imageUrl": "https://images.unsplash.com/photo-1619642751034-765dfdf7c58e?w=1200&q=80"
+  },
+  "gallery": [
+    { "url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1200&photo_reference=ATCDNfWUwvmyerdXrqgUmZgMEXSNcTAUBJzdvXkm-QwG9tCFf6baWKo0nDrm2X56rsL2vZArctgYqycIYktu00JUNkNcaFgOQa91ewX9AZ9zkiOQe4nJOZ5WXdrnQpVlbGAX-mUV2gCzvpKIv8aQml95KQ-p1JL8F9ThHs5U5WWgzdA6RqFi4WqmLrkWCb1dQPzgAS7HscTfs5BAWaK0jbHmyXb5c8eyokPZol_00m9722txqv7cSen1cMeEZyU1v4Nb_0Ux-fKZad4WFfCgdIpGupmGeB3CiiLSFsYdhtXIgC7l0w&key=AIzaSyAVvBWUrtTMnut45RFBuVKNz61wSg1Ebd8", "alt": "Exterior de Taller Abdul en Carrer Kepler, Sagunto." },
+    { "url": "https://images.unsplash.com/photo-1619642751034-765dfdf7c58e?w=1200&q=80", "alt": "Mecánico revisando el motor de un coche con herramientas." },
+    { "url": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?w=1200&q=80", "alt": "Detalle de motor de vehículo en reparación y mantenimiento." }
+  ],
+  "testimonials": [
+    { "name": "Elena García", "stars": 5, "text": "Excelente servicio, muy profesionales y rápidos. Mi coche quedó perfecto. ¡Totalmente recomendable!" },
+    { "name": "José M. López", "stars": 5, "text": "Trato inmejorable y precios muy competitivos. Siempre llevo mi coche aquí y salgo satisfecho." },
+    { "name": "Ana S. Ruiz", "stars": 4, "text": "Buen taller, me explicaron todo con claridad. La reparación fue eficaz, aunque tuve que esperar un poco más de lo previsto." }
+  ],
+  "contact": {
+    "title": "¿Necesitas ayuda con tu coche? ¡Contáctanos!",
+    "subtitle": "Estamos listos para atenderte en Sagunto con la profesionalidad que mereces. Pide tu cita hoy mismo.",
+    "whatsappNumber": "34602 00 47 93",
+    "showMap": true,
+    "mapQuery": "TALLER ABDUL Carrer Kepler, 13, 46520 Sagunt, Valencia, España"
+  },
+  "footer": {
+    "copyright": "© 2026 TALLER ABDUL"
+  }
+}
